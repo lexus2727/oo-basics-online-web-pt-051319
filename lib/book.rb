@@ -12,7 +12,7 @@ def title
 end
 
 def author=(author)
-  @author= name
+  @author= author
 end
 
 def author
