@@ -18,3 +18,12 @@ end
 def author
   @author
 end
+
+def page_count=(num)
+  #creating a page count
+  @page_count = num
+end
+
+def page_count
+  @page_count
+end
